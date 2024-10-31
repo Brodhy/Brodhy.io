@@ -1,4 +1,3 @@
-# Brodhy.io
 <!DOCTYPE html>
 <html>
     <head>
@@ -53,13 +52,13 @@
             <div class="section">
                 <h2>What You'll See</h2>
                 <p>Bali is known for its lush landscapes, pristine beaches, and vibrant culture. You can explore ancient temples, picturesque rice terraces, and stunning waterfalls.</p>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Rice_Terrace_in_Bali%2C_Indonesia.JPG" alt="Bali Rice Terraces">
+                <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-tree.png" alt="Bali Rice Terraces">
             </div>
 
             <div class="section">
                 <h2>Wildlife You'll Encounter</h2>
                 <p>Bali offers a unique variety of wildlife. You can spot exotic animals like monkeys in the sacred Monkey Forest and tropical birds in the jungles.</p>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Monkey_Forest_in_Ubud_Bali.jpg" alt="Monkey Forest in Ubud, Bali">
+                <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png" alt="Monkey Forest in Ubud, Bali">
             </div>
 
             <div class="section">
@@ -71,14 +70,15 @@
                     <li>Ubud Art Market</li>
                     <li>Seminyak Beach</li>
                 </ul>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Uluwatu_Sea_Temple.jpg" alt="Uluwatu Temple">
+                <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-sapling.png" alt="Uluwatu Temple">
             </div>
 
             <div class="section">
                 <h2>Local Cuisine</h2>
                 <p>Don't miss the opportunity to try authentic Balinese cuisine. Popular dishes include Nasi Goreng, Babi Guling, and Sate Lilit.</p>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Nasi_goreng_istimewa.jpg" alt="Nasi Goreng">
+                <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seedling.png" alt="Nasi Goreng">
             </div>
         </div>
     </body>
 </html>
+
